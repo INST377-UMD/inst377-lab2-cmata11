@@ -1,0 +1,64 @@
+/* Page 1 Styles */
+body {
+    background-color: #f0f8ff; /* Light blue background */
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.input-container {
+    margin: 20px;
+    font-size: 18px;
+}
+
+input {
+    padding: 8px;
+    margin-top: 5px;
+    display: block;
+    width: 100%;
+    max-width: 300px;
+}
+
+/* Submit Button Styling */
+button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    margin: 10px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+/* Page 2 Styles */
+.thank-you-page {
+    background-color: #ffe4b5; /* Light orange background */
+    text-align: center;
+    padding-top: 20px; /* Adds space at the top */
+}
+
+/* Ensuring only the h1 is centered */
+h1 {
+    text-align: center;
+}
+
+/* Left-aligning the thank-you message */
+.thank-you-message {
+    text-align: left;
+    margin: 20px;
+}
+
+/* Ensuring the image is centered */
+img {
+    width: 50%;
+    display: block;
+    margin: 20px auto;
+}
+
+
+
